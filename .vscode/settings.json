@@ -1,0 +1,51 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.espIdfPath": "/home/kamil/Dokumenty/ESP32DEV/v5.5.1/esp-idf",
+  "idf.pythonInstallPath": "/usr/bin/python",
+  "idf.openOcdConfigs": [
+    "interface/ftdi/esp_ftdi.cfg",
+    "target/esp32.cfg"
+  ],
+  "idf.port": "/dev/ttyUSB0",
+  "idf.toolsPath": "/home/kamil/.espressif",
+  "idf.customExtraVars": {
+    "IDF_TARGET": "esp32"
+  },
+  "idf.monitorPort": "/dev/ttyUSB0",
+  "idf.flashType": "UART",
+  "files.associations": {
+    "*.svelte": "svelte",
+    "spi_master.h": "c",
+    "ssd1322_gfx.h": "c"
+  },
+  "Lua.workspace.preloadFileSize": 2000,
+  "Lua.workspace.ignoreDir": [],
+  "Lua.diagnostics.libraryFiles": "Disable",
+  "Lua.runtime.version": "Lua 5.1",
+  "Lua.runtime.builtin": {
+    "basic": "enable",
+    "builtin": "enable",
+    "table": "enable",
+    "bit": "disable",
+    "bit32": "disable",
+    "coroutine": "disable",
+    "debug": "disable",
+    "ffi": "disable",
+    "io": "disable",
+    "jit": "disable",
+    "jit.profile": "disable",
+    "jit.util": "disable",
+    "math": "disable",
+    "os": "disable",
+    "package": "disable",
+    "string": "disable",
+    "string.buffer": "disable",
+    "table.clear": "disable",
+    "table.new": "disable",
+    "utf8": "disable"
+  },
+  "Lua.workspace.library": [
+    "/home/kamil/.vscode/extensions/tektronix.tsp-toolkit-1.3.0-linux-x64/node_modules/@tektronix/keithley_instrument_libraries/keithley_instrument_libraries/tsp-lua-5.0",
+    "/home/kamil/.vscode/extensions/tektronix.tsp-toolkit-1.3.0-linux-x64/node_modules/@tektronix/keithley_instrument_libraries/keithley_instrument_libraries/nodes_definitions"
+  ]
+}

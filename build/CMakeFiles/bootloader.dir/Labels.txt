@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/kamil/Dokumenty/ESP32DEV/Kalkulator/build/CMakeFiles/bootloader
+/home/kamil/Dokumenty/ESP32DEV/Kalkulator/build/CMakeFiles/bootloader.rule
+/home/kamil/Dokumenty/ESP32DEV/Kalkulator/build/CMakeFiles/bootloader-complete.rule
+/home/kamil/Dokumenty/ESP32DEV/Kalkulator/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/kamil/Dokumenty/ESP32DEV/Kalkulator/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/kamil/Dokumenty/ESP32DEV/Kalkulator/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/kamil/Dokumenty/ESP32DEV/Kalkulator/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/kamil/Dokumenty/ESP32DEV/Kalkulator/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/kamil/Dokumenty/ESP32DEV/Kalkulator/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/kamil/Dokumenty/ESP32DEV/Kalkulator/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule

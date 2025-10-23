@@ -1,0 +1,2 @@
+source /home/kamil/Dokumenty/ESP32DEV/Kalkulator/build/gdbinit/symbols
+source /home/kamil/Dokumenty/ESP32DEV/Kalkulator/build/gdbinit/connect
